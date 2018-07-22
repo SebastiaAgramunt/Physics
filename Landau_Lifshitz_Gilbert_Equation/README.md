@@ -7,4 +7,3 @@ $(1+\alpha^2)\frac{d\mathbf{m}}{d\tau} = -\mathbf{m} \times \mathbf{h}_{eff} - \
 \end{equation}$
 
 in this notebook we explain how to solve the equation and understand all the terms on it.
-
